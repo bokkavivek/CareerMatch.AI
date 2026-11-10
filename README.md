@@ -23,6 +23,11 @@ It uses:
   - Resume improvement suggestions
   - Project recommendations
   - Interview preparation questions
+- Login and registration landing-page design preview
+
+The login and registration page is a visual preview; authentication providers are
+not configured. Use **Try the Career Coach without signing in** to open the existing
+resume and job-description analysis workflow.
 
 ## RAG Stages Covered
 
